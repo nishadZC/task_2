@@ -1,2 +1,3 @@
 # task_2
-Create a merge conflict aand resolve.
+Create a merged conflict and resolve. This line will be common
+Created a branch with name user_1 
